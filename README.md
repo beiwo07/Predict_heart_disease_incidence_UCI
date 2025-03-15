@@ -1,4 +1,4 @@
-# Predicting Particulate Matter of 2.5 Microns or Less in Diameter (PM 2.5)
+# Heart Disease Prediction Using Logistic Regression and Decision Tree
 
 # Task 
 
